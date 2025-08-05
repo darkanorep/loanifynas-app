@@ -1,0 +1,11 @@
+/services/user-service/src/.env
+/services/user-service/node_modules
+
+/services/loan-service/src/.env
+/services/loan-service/node_modules
+
+/services/notification-service/src/.env
+/services/notification-service/node_modules
+
+/services/payment-service/src/.env
+/services/payment-service/node_modules
